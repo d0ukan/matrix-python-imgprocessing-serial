@@ -35,3 +35,5 @@ This gives output from serial ports by 3 seperated image areas.
 **change to COM ports `ser = serial.Serial('COM5', 9600)`**
 
 change to BaudRates : **9600**
+
+>***made by flurex***
