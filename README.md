@@ -32,8 +32,8 @@ tracker = cv2.TrackerCSRT_create()
 
 This gives output from serial ports by 3 seperated image areas.
 
-**change to COM ports `ser = serial.Serial('COM5', 9600)`**
+**to change COM ports `ser = serial.Serial('COM5', 9600)`**
 
-change to BaudRates : **9600**
+to change BaudRates : (default) **9600**
 
 >***made by flurex***
